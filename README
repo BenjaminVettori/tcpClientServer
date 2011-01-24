@@ -1,0 +1,2 @@
+tcpIPClientServer is a small C# application to test some
+features of the tcpClient and tcpListener classes of C#.
